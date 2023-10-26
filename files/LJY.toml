@@ -1,0 +1,14 @@
+[editor]
+name = "Jiaying LU"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "“Everybody’s doing it”: Exploring the consequences of intergroup contact norms"
+doi = "https://doi.org/10.1177/13684302221106926"
+authors = "Harrison Boss, Elena Buliga, and Cara C. MacInnis"
+journal = "Group Processes & Intergroup Relations"
+publish = "Volume 26, Issue 6, September 2023"
+category = "culture"
+summary = "为了探讨灵活的数据分析可能带来的可重复性问题，研究者给46个研究小组提供了相同的研究问题和语音生成数据集，各组的分析结果显示出了不可解释的差异。因此，建议在未来的研究中，研究者们可以更透明地分享分析细节，加强理论和定量结果之间的逻辑联系，并校准所得到的结论，减小不确定性。"
+abstract = "Newcomers to a country can strongly benefit from having positive intergroup contact with host country residents. Often, however, such contact does not occur. Norms surrounding intergroup contact between newcomers and host country residents were explored over three studies. Correlational relationships among positive perceived contact norms, positive attitudes, and behavioural intentions supporting contact were demonstrated over multiple studies. Further, an experimental manipulation indicating higher (vs. lower and control) contact between host country residents and newcomers predicted behavioural intentions toward future intergroup contact through heightened intergroup contact norms and more positive attitudes toward newcomers. Implications of using norms as a means to impact intergroup relations are discussed."
+keywords = "attitudes, intergroup contact, newcomers, social norms"
